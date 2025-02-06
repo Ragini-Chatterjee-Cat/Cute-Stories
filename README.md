@@ -20,5 +20,6 @@ This repository contains a project for training and using a Transformer Decoder 
 ├── decoder.py          # Transformer Decoder implementation
 ├── main.py             # API server using FastAPI
 ├── model.py            # Defines the Transformer model
+├── training.py         # Trains the transformer model        
 ├── requirements.txt    # Python dependencies for the project
 ├── README.md           # Project documentation
